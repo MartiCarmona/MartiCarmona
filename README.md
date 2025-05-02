@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=building+for+creators...;breaking+Discord...;launching+AI+tools+soon+%F0%9F%94%A5;I+love+building+projects." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+love+building+projects." alt="Typing SVG" />
 </h1>
 
 ### 👋 Hey, I’m Martí Carmona
