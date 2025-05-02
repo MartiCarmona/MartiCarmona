@@ -13,7 +13,7 @@ In 2020, I started selling software in a Discord server. That side project turne
 
 I studied Industrial Engineering but dropped out to pursue tech full-time. Since then, I’ve focused on learning tech and building and shipping projects.
 
-Now, I’m building **[Soofte](https://www.soofte.com)** — an all-in-one platform for monetized communities.
+Now, I’m building **[Soofte](https://www.soofte.com)** an all-in-one platform for monetized communities.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marticarmonaserrat/)](https://www.linkedin.com/in/marticarmonaserrat/)
 [![Twitter](https://img.shields.io/badge/-X-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/yourusername)](https://x.com/martics_)
